@@ -1,0 +1,38 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+.venv-1/
+# Package builds
+build/
+dist/
+*.egg-info/
+
+# Logs and coverage
+*.log
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Secrets
+*.env
